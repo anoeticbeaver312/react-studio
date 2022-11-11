@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anoeticbeaver312.github.io/react-studio/static/css/main.3c5e51a1.css",
+    "main.js": "/anoeticbeaver312.github.io/react-studio/static/js/main.4a29f2f7.js",
+    "index.html": "/anoeticbeaver312.github.io/react-studio/index.html",
+    "main.3c5e51a1.css.map": "/anoeticbeaver312.github.io/react-studio/static/css/main.3c5e51a1.css.map",
+    "main.4a29f2f7.js.map": "/anoeticbeaver312.github.io/react-studio/static/js/main.4a29f2f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c5e51a1.css",
+    "static/js/main.4a29f2f7.js"
+  ]
+}
